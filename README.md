@@ -1,7 +1,7 @@
 #1
 
 
-📊 Adidas Sales Performance Dashboard – Power BI
+📊 **Adidas Sales Performance Dashboard – Power BI**
 
 This project presents an end-to-end Power BI dashboard built to analyze and visualize the sales performance of Adidas. It was designed to empower decision-makers with actionable insights to support growth, pricing strategies, and regional planning in the competitive athletic apparel industry.
 
@@ -62,7 +62,7 @@ Best practices in visual layout and slicer usage
 #2. 
 
 
-🚗 BMW Sales Dashboard – Power BI
+🚗 **BMW Sales Dashboard – Power BI**
 
 This Power BI project showcases a BMW Sales Dashboard using multi-year sales data. The dashboard delivers strategic insights into performance metrics like revenue growth, top-selling models, and country-wise trends.
 
@@ -109,7 +109,7 @@ UK (+25.8%)
 #3. 
 
 
-🏪 Superstore Sales Dashboard – Power BI
+🏪 **Superstore Sales Dashboard – Power BI**
 
 This project includes two key Power BI dashboards built for a fictional Superstore business:
 
@@ -150,7 +150,7 @@ Gained practical experience in integrating predictive analytics with business in
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #4.
 
-Mobile-sales-dashboard
+**Mobile-sales-dashboard - Power BI**
 
 
 This repository contains a Power BI dashboard that provides a comprehensive overview of mobile sales across India. This dashboard is designed to help stakeholders analyze sales performance, quantities, and average prices by city, brand, and time period, enabling data-driven decision-making.
