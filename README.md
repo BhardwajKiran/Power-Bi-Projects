@@ -1,6 +1,6 @@
 ##1
 
-📊 **Adidas Sales Performance Dashboard – Power BI Project**
+📊 **Adidas Sales Performance Dashboard – Power BI **
 This project is an end-to-end Power BI dashboard built to analyze and visualize the sales performance of Adidas. It was designed to empower decision-makers with actionable insights that support strategic growth, pricing optimization, and regional planning in the dynamic sports and athletic industry.
 
 📌 Project Overview
@@ -120,3 +120,4 @@ Data Cleaning: Ensured data accuracy by handling missing and inconsistent entrie
 DAX Optimization: Developed efficient DAX formulas for faster calculations.
 
 Predictive Modeling: Integrated basic sales forecasting techniques within Power BI.
+
