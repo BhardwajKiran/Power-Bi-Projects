@@ -1,6 +1,6 @@
 ##1
 
-📊 Adidas Sales Performance Dashboard – Power BI Project
+📊 **Adidas Sales Performance Dashboard – Power BI Project**
 This project is an end-to-end Power BI dashboard built to analyze and visualize the sales performance of Adidas. It was designed to empower decision-makers with actionable insights that support strategic growth, pricing optimization, and regional planning in the dynamic sports and athletic industry.
 
 📌 Project Overview
@@ -40,10 +40,10 @@ Open the .pbix file in Power BI Desktop
 Make sure to enable data connections if prompted
 Explore various filters and slicers to interact with the report
 Optionally, publish the report to Power BI Service to share online
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##2.
- 🚗 BMW Sales Dashboard - Power BI
+ 🚗** BMW Sales Dashboard - Power BI**
 
  
  This Power BI project presents an interactive BMW Sales Dashboard using sales data. The dashboard provides key insights into BMW's sales performance, including revenue trends, top-selling models, sales distribution by country, and channel performance.
@@ -72,3 +72,51 @@ Revenue grew by 24.7% compared to the previous year.
 BMW Z4 is the top-selling model with 666 units sold.
 Wholesale is the leading sales channel with 45% of total sales.
 Top 3 growing markets: Brazil (+30.2%), Nigeria (+24.8%), and the UK (+25.8%).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##3
+
+
+**SuperStore-Sales-Dashboard-Power-Bi**
+Overview
+
+This project involves creating an interactive and insightful Power BI dashboard to analyze and predict sales for a fictional superstore. The project consists two key components:
+
+Superstore Sales Dashboard: A detailed visualization of sales performance and key metrics.
+
+Sales Prediction Dashboard: A predictive analytics dashboard that forecasts future sales trends.
+
+Features
+
+Superstore Sales Dashboard:
+
+Sales Performance Analysis: Displays sales, profit, and order quantity trends over time.
+
+Customer Segmentation: Breaks down sales by customer segments, regions, and categories.
+
+Product Insights: Highlights top-performing products.
+
+Regional Trends: Analyzes sales performance by region to identify growth opportunities.
+
+Sales Prediction Dashboard:
+
+Predictive Model Integration: Uses historical data to predict future sales.
+
+Scenario Analysis: Allows users to simulate different scenarios to assess sales outcomes.
+
+Tools Used
+
+Power BI: For creating interactive visualizations and dashboards.
+
+Data Modeling: For structuring and cleaning raw data into usable formats.
+
+DAX (Data Analysis Expressions): For implementing calculated measures and advanced analytics.
+
+Challenges and Learnings
+
+Data Cleaning: Ensured data accuracy by handling missing and inconsistent entries.
+
+DAX Optimization: Developed efficient DAX formulas for faster calculations.
+
+Predictive Modeling: Integrated basic sales forecasting techniques within Power BI.
